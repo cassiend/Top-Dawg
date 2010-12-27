@@ -1,0 +1,2 @@
+/Users/Cassie/Desktop/Top Dawg/Classes/FacebookAgentTestAppDelegate.m: In function '-[FacebookAgentTestAppDelegate applicationDidFinishLaunching:]':
+/Users/Cassie/Desktop/Top Dawg/Classes/FacebookAgentTestAppDelegate.m:21: error: request for member 'view' in something not a structure or union

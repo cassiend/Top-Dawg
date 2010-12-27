@@ -1,0 +1,3669 @@
+TTopDawg
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C00634300000000000A9960
+t1275093827
+s694624
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C00668E00000000000028E4
+t1275094670
+s10468
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C00668E0000000000000092
+t1275094670
+s146
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C0066A400000000000F3C80
+t1275094692
+s998528
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C00598B000000000008B5E0
+t1275091339
+s570848
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/Availability.h
+c000000004B9F27C60000000000001A1A
+t1268721606
+s6682
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004B9F12D90000000000002500
+t1268716249
+s9472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/sys/utsname.h
+c000000004C5A1A140000000000000F14
+t1280973332
+s3860
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libsqlite3.dylib
+c000000004C004E8F00000000000B4CF0
+t1275088527
+s740592
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3671890000000000000110
+t1278636425
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C04706200000000000C1E70
+t1275359330
+s794224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C04705A00000000000001D0
+t1275359322
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C04800C00000000000028E4
+t1275363340
+s10468
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C04800C00000000000000CD
+t1275363340
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C04802700000000000FCB40
+t1275363367
+s1035072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BFE069000000000000AC990
+t1274939024
+s706960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/Availability.h
+c000000004BF4D50E0000000000001A3B
+t1274336526
+s6715
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004BF4BCBB0000000000002407
+t1274330299
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/sys/utsname.h
+c000000004BFDFE1D0000000000000F14
+t1274936861
+s3860
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/lib/libsqlite3.dylib
+c000000004BFDFABB00000000000B4D20
+t1274935995
+s740640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E20FF00000000000028E4
+t1281237247
+s10468
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E20FF00000000000000CD
+t1281237247
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E210F00000000000FF4C0
+t1281237263
+s1045696
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C5A512E00000000000B0B30
+t1280987438
+s723760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C32410000000000099800
+t1282159169
+s628736
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004C5790370000000000002407
+t1280806967
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/utsname.h
+c000000004C5A4AB50000000000000F14
+t1280985781
+s3860
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libsqlite3.dylib
+c000000004C5A4A0500000000000B9DE0
+t1280985605
+s761312
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/AboutController.h
+c000000004C61D469000000000000011E
+t1281479785
+s286
+i<UIKit/UIKit.h>
+i"AboutController.h"
+i"Terms.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/AboutController.m
+c000000004C61C6E80000000000000582
+t1281476328
+s1410
+i"AboutController.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/ApplicationCell.h
+c000000004C61D52700000000000001D6
+t1281479975
+s470
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/ApplicationCell.m
+c000000004C61D52C0000000000000103
+t1281479980
+s259
+i"ApplicationCell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviews2.h
+c000000004BC25E0400000000000000D9
+t1271029252
+s217
+i<Foundation/Foundation.h>
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviews2.m
+c000000004C61D505000000000000034F
+t1281479941
+s847
+i"IndividualSubviews2.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviewsBasedApplicationCell.h
+c000000004AF832E300000000000001B9
+t1257779939
+s441
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviewsBasedApplicationCell.m
+c000000004C61D51F00000000000007A0
+t1281479967
+s1952
+i"IndividualSubviewsBasedApplicationCell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/NetworkError.h
+c000000004C61D49B000000000000012E
+t1281479835
+s302
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/NetworkError.m
+c000000004B1E62D100000000000002E8
+t1260282577
+s744
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewController.h
+c000000004B1298B6000000000000023B
+t1259509942
+s571
+i<UIKit/UIKit.h>
+i"ApplicationCell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewController.m
+c000000004C9997C500000000000015C0
+t1285134277
+s5568
+i"RootViewController.h"
+i"RootViewImage.h"
+i"RootViewImage2.h"
+i"Utilities.h"
+i"NetworkError.h"
+i"FBConnect.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage.h
+c000000004C99ABD000000000000006D2
+t1285139408
+s1746
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage.m
+c000000004C99BDD10000000000002F68
+t1285144017
+s12136
+i"RootViewImage.h"
+i"RootViewController.h"
+i"Share.h"
+i"Utilities.h"
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage2.h
+c000000004C99B66300000000000003E7
+t1285142115
+s999
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage2.m
+c000000004C9A15A300000000000019C2
+t1285166499
+s6594
+i"RootViewImage2.h"
+i"RootViewController.h"
+i"Share.h"
+i"Utilities.h"
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Share.h
+c000000004C61CBF200000000000003FB
+t1281477618
+s1019
+i<UIKit/UIKit.h>
+i"FacebookAgent.h"
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"TwitterRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Share.m
+c000000004C61CDA3000000000000219D
+t1281478051
+s8605
+i"Share.h"
+i<sys/utsname.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Terms.h
+c000000004B00DE0D00000000000001F6
+t1258348045
+s502
+i<UIKit/UIKit.h>
+i"Terms.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Terms.m
+c000000004C61CBA70000000000002913
+t1281477543
+s10515
+i"Terms.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Thanks.h
+c000000004C61C6E40000000000000126
+t1281476324
+s294
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Thanks.m
+c000000004C61D4910000000000000B3E
+t1281479825
+s2878
+i"Thanks.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20.h
+c000000004B11F49C0000000000000210
+t1259467932
+s528
+i<UIKit/UIKit.h>
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20.m
+c000000004C61D44E0000000000001181
+t1281479758
+s4481
+i"Top20.h"
+i"Top20Image.h"
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20Image.h
+c000000004C61D4DD0000000000000161
+t1281479901
+s353
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20Image.m
+c000000004C65EA4F000000000000062F
+t1281747535
+s1583
+i"Top20Image.h"
+i"Top20.h"
+i"Utilities.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TopDawgAppDelegate.h
+c000000004BB0A37200000000000001C6
+t1269867378
+s454
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TopDawgAppDelegate.m
+c000000004C608CC700000000000002C3
+t1281395911
+s707
+i"TopDawgAppDelegate.h"
+i"RootViewController.h"
+i"Top20.h"
+i"UploadController.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TwitterRequest.h
+c000000004BB030B300000000000003C3
+t1269838003
+s963
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TwitterRequest.m
+c000000004BB0310700000000000012E1
+t1269838087
+s4833
+i"TwitterRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadController.h
+c000000004B60A68A0000000000000334
+t1264625290
+s820
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadController.m
+c000000004C61C7680000000000001B5F
+t1281476456
+s7007
+i"UploadController.h"
+i"Thanks.h"
+i"UploadError.h"
+i<sys/utsname.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadError.h
+c000000004C61D4AA000000000000012E
+t1281479850
+s302
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadError.m
+c000000004C61C6FC000000000000055A
+t1281476348
+s1370
+i"UploadError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Utilities.h
+c000000004BC25C370000000000000103
+t1271028791
+s259
+i<Foundation/Foundation.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Utilities.m
+c000000004C99A61C00000000000006B2
+t1285137948
+s1714
+i"Utilities.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Entitlements.plist
+c000000004AF2309700000000000000E0
+t1257386135
+s224
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent.h
+c000000004B4E071B0000000000001CC9
+t1263404827
+s7369
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/FacebookAgent.h
+c000000004B4C0BE00000000000001C2C
+t1263274976
+s7212
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/FacebookAgent.m
+c000000004BAF91C30000000000003516
+t1269797315
+s13590
+i"FacebookAgent.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBConnect.h
+c000000004B4454210000000000000301
+t1262769185
+s769
+i"FBSession.h"
+i"FBRequest.h"
+i"FBLoginButton.h"
+i"FBLoginDialog.h"
+i"FBPermissionDialog.h"
+i"FBFeedDialog.h"
+i"FBStreamDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBConnectGlobal.h
+c000000004AD3A5240000000000001E6E
+t1255384356
+s7790
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBDialog.h
+c000000004B4454210000000000000EDF
+t1262769185
+s3807
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBFeedDialog.h
+c000000004B4454210000000000000574
+t1262769185
+s1396
+i"FBDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBLoginButton.h
+c000000004B4454210000000000000597
+t1262769185
+s1431
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBLoginDialog.h
+c000000004B44542100000000000002DD
+t1262769185
+s733
+i"FBDialog.h"
+i"FBRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBPermissionDialog.h
+c000000004B4454210000000000000382
+t1262769185
+s898
+i"FBLoginDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBRequest.h
+c000000004B445421000000000000114F
+t1262769185
+s4431
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBSession.h
+c000000004B445421000000000000151A
+t1262769185
+s5402
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnect/FBStreamDialog.h
+c000000004B4454210000000000000835
+t1262769185
+s2101
+i"FBDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnectGlobal.m
+c000000004B4454210000000000000509
+t1262769185
+s1289
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBDialog.m
+c000000004C61D6DD00000000000051CA
+t1281480413
+s20938
+i"FBDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBFeedDialog.m
+c000000004B4454210000000000000BD3
+t1262769185
+s3027
+i"FBFeedDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBLoginButton.m
+c000000004B445421000000000000109E
+t1262769185
+s4254
+i"FBLoginButton.h"
+i"FBLoginDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBLoginDialog.m
+c000000004B4454210000000000000FF0
+t1262769185
+s4080
+i"FBLoginDialog.h"
+i"FBSession.h"
+i"FBRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBPermissionDialog.m
+c000000004B4454210000000000000C74
+t1262769185
+s3188
+i"FBPermissionDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBRequest.m
+c000000004B4454210000000000002F5B
+t1262769185
+s12123
+i"FBRequest.h"
+i"FBSession.h"
+i"FBXMLHandler.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBSession.m
+c000000004B4454210000000000002113
+t1262769185
+s8467
+i"FBSession.h"
+i"FBRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBStreamDialog.m
+c000000004B445421000000000000099D
+t1262769185
+s2461
+i"FBStreamDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBXMLHandler.h
+c000000004B44542100000000000003BF
+t1262769185
+s959
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBXMLHandler.m
+c000000004AD3A5240000000000001148
+t1255384356
+s4424
+i"FBXMLHandler.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Hooray.png
+c000000004B00D429000000000000105D
+t1258345513
+s4189
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/IndividualSubviews2.xib
+c000000004B61905E0000000000003E20
+t1264685150
+s15904
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/IndividualSubviewsBasedApplicationCell.xib
+c000000004B048F930000000000005CF8
+t1258590099
+s23800
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ListDogImages.xib
+c000000004C9A1617000000000000ECA0
+t1285166615
+s60576
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ListDogImages2.xib
+c000000004C984C380000000000009F6E
+t1285049400
+s40814
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/MainWindow.xib
+c000000004B11571F000000000000790B
+t1259427615
+s30987
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/NetworkError.xib
+c000000004B06E00600000000000031AA
+t1258741766
+s12714
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/1Star.png
+c000000004AEF193E0000000000000E4F
+t1257183550
+s3663
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/2Star.png
+c000000004AEF19470000000000000EEE
+t1257183559
+s3822
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/3Star.png
+c000000004AEF195C0000000000000EEF
+t1257183580
+s3823
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/4Star.png
+c000000004AEF19660000000000000EA1
+t1257183590
+s3745
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/5Star.png
+c000000004AEF19530000000000000EBE
+t1257183571
+s3774
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/About copy.png
+c000000004B01679F0000000000001074
+t1258383263
+s4212
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/About.png
+c000000004AD097600000000000001074
+t1255184224
+s4212
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/About.xib
+c000000004C984F710000000000006A33
+t1285050225
+s27187
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/About2.png
+c000000004AE688F30000000000023A88
+t1256622323
+s146056
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/About3.png
+c000000004B007B0F0000000000005A14
+t1258322703
+s23060
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/AddPhoto.png
+c000000004B01809000000000000011F3
+t1258389648
+s4595
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Cancel.png
+c000000004AE029230000000000000FDA
+t1256204579
+s4058
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Cancel2.png
+c000000004AF08D4C0000000000001550
+t1257278796
+s5456
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/DarkBackground.png
+c000000004A36DAE4000000000000004E
+t1245108964
+s78
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/DarkBackground2.png
+c000000004ACE53E20000000000000AED
+t1255035874
+s2797
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Default.png
+c000000004ACD5B64000000000001A31A
+t1254972260
+s107290
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Email.png
+c000000004AFDC196000000000000149E
+t1258144150
+s5278
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/LightBackground.png
+c000000004A36DAE4000000000000004E
+t1245108964
+s78
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/LightBackground2.png
+c000000004ACE54AF0000000000000AED
+t1255036079
+s2797
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Paw.png
+c000000004AD094B30000000000001013
+t1255183539
+s4115
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/SMS.png
+c000000004AF08D9E0000000000001262
+t1257278878
+s4706
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Star.png
+c000000004AD095760000000000000DBC
+t1255183734
+s3516
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Stars.png
+c000000004AD095990000000000001056
+t1255183769
+s4182
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Stars2.png
+c000000004AD008B90000000000001406
+t1255147705
+s5126
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Stars3.png
+c000000004AD007750000000000001179
+t1255147381
+s4473
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/StarsBackground.png
+c000000004A36DAE400000000000002EC
+t1245108964
+s748
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/StarsForeground.png
+c000000004A36DAE400000000000004D9
+t1245108964
+s1241
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Submission.png
+c000000004AE02D830000000000000E82
+t1256205699
+s3714
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Submit.png
+c000000004AE029000000000000001023
+t1256204544
+s4131
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/TakePhoto.png
+c000000004B01799C0000000000001214
+t1258387868
+s4628
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Terms.png
+c000000004B00DA740000000000000D4A
+t1258347124
+s3402
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Terms.xib
+c000000004C984F870000000000005E7A
+t1285050247
+s24186
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Thanks.png
+c000000004AFDDE800000000000009879
+t1258151552
+s39033
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Thanks1.png
+c000000004AEF5576000000000000983E
+t1257198966
+s38974
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/TopDawgBackground.png
+c000000004ACDF117000000000001995F
+t1255010583
+s104799
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Upload.png
+c000000004AD0953F0000000000000E9F
+t1255183679
+s3743
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/UploadBackground.png
+c000000004AE028430000000000006AE2
+t1256204355
+s27362
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner.png
+c000000004ACF90DC00000000000036DB
+t1255117020
+s14043
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner2.png
+c000000004ACF91A00000000000003A0E
+t1255117216
+s14862
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner3.png
+c000000004AE675D5000000000000330A
+t1256617429
+s13066
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner4.png
+c000000004AE6858B0000000000002215
+t1256621451
+s8725
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner5.png
+c000000004B048F8100000000000037B6
+t1258590081
+s14262
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner6 copy.png
+c000000004B04DCE90000000000002FB4
+t1258609897
+s12212
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/WhiteBanner6.png
+c000000004B04DC860000000000002E4B
+t1258609798
+s11851
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/YellowStar.png
+c000000004AEF1A9F0000000000000E6D
+t1257183903
+s3693
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/button.png
+c000000004B0318A70000000000001098
+t1258494119
+s4248
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/leftArrow.png
+c000000004ADF6B390000000000000BB9
+t1256155961
+s3001
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/medal.png
+c000000004AE6829800000000000013A3
+t1256620696
+s5027
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/rightArrow.png
+c000000004ADF6B650000000000000B9B
+t1256156005
+s2971
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/rollover.png
+c000000004B048F8E0000000000000ED3
+t1258590094
+s3795
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/rollover2.png
+c000000004B04D60F0000000000000E5E
+t1258608143
+s3678
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/topdawgicon.png
+c000000004ACD5A560000000000001B75
+t1254971990
+s7029
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/RootViewController.xib
+c000000004B12A09C00000000000020B7
+t1259511964
+s8375
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Share.xib
+c000000004C984EEC000000000000745A
+t1285050092
+s29786
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ShareAsEmail.png
+c000000004B948E280000000000001C95
+t1268026920
+s7317
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ShareAsFacebook.png
+c000000004B948E4500000000000025A8
+t1268026949
+s9640
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ShareAsSMS.png
+c000000004B9452E10000000000001F72
+t1268011745
+s8050
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ShareAsTwitter.png
+c000000004B948E5E00000000000027CB
+t1268026974
+s10187
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ShareCancel.png
+c000000004B948E7200000000000016A6
+t1268026994
+s5798
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Thanks.xib
+c000000004C984F500000000000006154
+t1285050192
+s24916
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20.xib
+c000000004B04DB07000000000000214C
+t1258609415
+s8524
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20Cell.h
+c000000004ADC84E20000000000000155
+t1255965922
+s341
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20Cell.m
+c000000004C61D4D700000000000000C1
+t1281479895
+s193
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20Image.xib
+c000000004C984D8B0000000000006191
+t1285049739
+s24977
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/TopDawg-Info.plist
+c000000004C621F8E000000000000037D
+t1281499022
+s893
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/TopDawg_Prefix.pch
+c000000004C61D62D00000000000000E3
+t1281480237
+s227
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Upload.xib
+c000000004B19928D00000000000060F2
+t1259967117
+s24818
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/UploadError.xib
+c000000004B12AEF400000000000033F1
+t1259515636
+s13297
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app.dSYM
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/1Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/2Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/3Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/4Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/5Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About copy.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About3.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/AddPhoto.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Cancel.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Cancel2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/DarkBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/DarkBackground2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Default.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Email.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Entitlements.plist
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Hooray.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/IndividualSubviews2.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/IndividualSubviewsBasedApplicationCell.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Info.plist
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/LightBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/LightBackground2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ListDogImages.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ListDogImages2.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/MainWindow.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/NetworkError.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Paw.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/PkgInfo
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/RootViewController.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/SMS.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Share.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsEmail.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsFacebook.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsSMS.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsTwitter.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareCancel.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Stars.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Stars2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Stars3.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/StarsBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/StarsForeground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Submission.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Submit.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TakePhoto.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Terms.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Terms.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Thanks.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Thanks.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Thanks1.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Top20.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Top20Image.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawg
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawg-Info.plist
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawgBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Upload.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Upload.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/UploadBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/UploadError.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner3.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner4.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner5.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner6 copy.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner6.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/YellowStar.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/button.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/leftArrow.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/medal.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/rightArrow.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/rollover.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/rollover2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/topdawgicon.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/AboutController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/ApplicationCell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBConnectGlobal.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBFeedDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginButton.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBPermissionDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBRequest.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBSession.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBStreamDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBXMLHandler.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FacebookAgent.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviews2.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviewsBasedApplicationCell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/NetworkError.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage2.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Share.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Terms.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Thanks.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Cell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Image.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TopDawg.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TopDawgAppDelegate.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TwitterRequest.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadError.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Utilities.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/AboutController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/ApplicationCell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBConnectGlobal.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBFeedDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBLoginButton.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBLoginDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBPermissionDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBRequest.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBSession.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBStreamDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBXMLHandler.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FacebookAgent.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/IndividualSubviews2.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/IndividualSubviewsBasedApplicationCell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/NetworkError.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/RootViewImage.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/RootViewImage2.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Share.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Terms.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Thanks.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Top20.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Top20Cell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Top20Image.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/TopDawg.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/TopDawgAppDelegate.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/TwitterRequest.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/UploadController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/UploadError.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Utilities.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/libPMAnalytics-r91.a
+c000000004B144A3200000000000990B8
+t1259620914
+s626872
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/main.m
+c000000004A8F2E0A0000000000000A8A
+t1250897418
+s2698
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/AboutController.h
+c000000004BC0A52D0000000000000149
+t1270916397
+s329
+i<UIKit/UIKit.h>
+i"AboutController.h"
+i"Terms.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/AboutController.m
+c000000004BC0A52D0000000000000835
+t1270916397
+s2101
+i"AboutController.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/ApplicationCell.h
+c000000004BC25E0400000000000001D7
+t1271029252
+s471
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/ApplicationCell.m
+c000000004BC25E2C0000000000000104
+t1271029292
+s260
+i"ApplicationCell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Beacon.h
+c000000004B144A320000000000000A4C
+t1259620914
+s2636
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/IndividualSubviews2.h
+c000000004BC25E0400000000000000D9
+t1271029252
+s217
+i<Foundation/Foundation.h>
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/IndividualSubviews2.m
+c000000004AF2423C0000000000000354
+t1257390652
+s852
+i"IndividualSubviews2.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/IndividualSubviewsBasedApplicationCell.h
+c000000004AF832E300000000000001B9
+t1257779939
+s441
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/IndividualSubviewsBasedApplicationCell.m
+c000000004BC25E0400000000000007AB
+t1271029252
+s1963
+i"IndividualSubviewsBasedApplicationCell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/NetworkError.h
+c000000004B12AEA3000000000000012F
+t1259515555
+s303
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/NetworkError.m
+c000000004B1E62D100000000000002E8
+t1260282577
+s744
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewController.h
+c000000004B1298B6000000000000023B
+t1259509942
+s571
+i<UIKit/UIKit.h>
+i"ApplicationCell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewController.m
+c000000004C090A2300000000000015C0
+t1275660835
+s5568
+i"RootViewController.h"
+i"RootViewImage.h"
+i"RootViewImage2.h"
+i"Utilities.h"
+i"NetworkError.h"
+i"FBConnect.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewImage.h
+c000000004B8DE40700000000000006D3
+t1267590151
+s1747
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewImage.m
+c000000004C090AE50000000000002DAB
+t1275661029
+s11691
+i"RootViewImage.h"
+i"RootViewController.h"
+i"Share.h"
+i"Utilities.h"
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewImage2.h
+c000000004B8DE26600000000000003E7
+t1267589734
+s999
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewImage2.m
+c000000004C090B0200000000000017EC
+t1275661058
+s6124
+i"RootViewImage2.h"
+i"RootViewController.h"
+i"Share.h"
+i"Utilities.h"
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Share.h
+c000000004BB78E2D00000000000003FC
+t1270320685
+s1020
+i<UIKit/UIKit.h>
+i"FacebookAgent.h"
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"TwitterRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Share.m
+c000000004BC0A33E0000000000002159
+t1270915902
+s8537
+i"Share.h"
+i<sys/utsname.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Terms.h
+c000000004B00DE0D00000000000001F6
+t1258348045
+s502
+i<UIKit/UIKit.h>
+i"Terms.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Terms.m
+c000000004B0AC3140000000000002938
+t1258996500
+s10552
+i"Terms.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Thanks.h
+c000000004B12AEA30000000000000129
+t1259515555
+s297
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Thanks.m
+c000000004B1E5FD80000000000000B44
+t1260281816
+s2884
+i"Thanks.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Top20.h
+c000000004B11F49C0000000000000210
+t1259467932
+s528
+i<UIKit/UIKit.h>
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Top20.m
+c000000004C090A3900000000000011B2
+t1275660857
+s4530
+i"Top20.h"
+i"Top20Image.h"
+i"NetworkError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Top20Image.h
+c000000004AF8AE8F0000000000000162
+t1257811599
+s354
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Top20Image.m
+c000000004C090AAF0000000000000633
+t1275660975
+s1587
+i"Top20Image.h"
+i"Top20.h"
+i"Utilities.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/TopDawgAppDelegate.h
+c000000004BB0A37200000000000001C6
+t1269867378
+s454
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/TopDawgAppDelegate.m
+c000000004BB0A3720000000000000417
+t1269867378
+s1047
+i"TopDawgAppDelegate.h"
+i"RootViewController.h"
+i"Top20.h"
+i"UploadController.h"
+i"Beacon.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/TwitterRequest.h
+c000000004BB030B300000000000003C3
+t1269838003
+s963
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/TwitterRequest.m
+c000000004BB0310700000000000012E1
+t1269838087
+s4833
+i"TwitterRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/UploadController.h
+c000000004B60A68A0000000000000334
+t1264625290
+s820
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/UploadController.m
+c000000004C090A570000000000001B85
+t1275660887
+s7045
+i"UploadController.h"
+i"Thanks.h"
+i"UploadError.h"
+i<sys/utsname.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/UploadError.h
+c000000004B12AFF8000000000000012F
+t1259515896
+s303
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/UploadError.m
+c000000004B12B01B000000000000055D
+t1259515931
+s1373
+i"UploadError.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Utilities.h
+c000000004BC25C370000000000000103
+t1271028791
+s259
+i<Foundation/Foundation.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Utilities.m
+c000000004BC25CBD00000000000006D7
+t1271028925
+s1751
+i"Utilities.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Entitlements.plist
+c000000004AF2309700000000000000E0
+t1257386135
+s224
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent.h
+c000000004B4E071B0000000000001CC9
+t1263404827
+s7369
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/FacebookAgent.h
+c000000004B4C0BE00000000000001C2C
+t1263274976
+s7212
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/FacebookAgent.m
+c000000004BAF91C30000000000003516
+t1269797315
+s13590
+i"FacebookAgent.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBConnect.h
+c000000004B4454210000000000000301
+t1262769185
+s769
+i"FBSession.h"
+i"FBRequest.h"
+i"FBLoginButton.h"
+i"FBLoginDialog.h"
+i"FBPermissionDialog.h"
+i"FBFeedDialog.h"
+i"FBStreamDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBConnectGlobal.h
+c000000004AD3A5240000000000001E6E
+t1255384356
+s7790
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBDialog.h
+c000000004B4454210000000000000EDF
+t1262769185
+s3807
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBFeedDialog.h
+c000000004B4454210000000000000574
+t1262769185
+s1396
+i"FBDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBLoginButton.h
+c000000004B4454210000000000000597
+t1262769185
+s1431
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBLoginDialog.h
+c000000004B44542100000000000002DD
+t1262769185
+s733
+i"FBDialog.h"
+i"FBRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBPermissionDialog.h
+c000000004B4454210000000000000382
+t1262769185
+s898
+i"FBLoginDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBRequest.h
+c000000004B445421000000000000114F
+t1262769185
+s4431
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBSession.h
+c000000004B445421000000000000151A
+t1262769185
+s5402
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnect/FBStreamDialog.h
+c000000004B4454210000000000000835
+t1262769185
+s2101
+i"FBDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnectGlobal.m
+c000000004B4454210000000000000509
+t1262769185
+s1289
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBDialog.m
+c000000004B44542100000000000051C7
+t1262769185
+s20935
+i"FBDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBFeedDialog.m
+c000000004B4454210000000000000BD3
+t1262769185
+s3027
+i"FBFeedDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBLoginButton.m
+c000000004B445421000000000000109E
+t1262769185
+s4254
+i"FBLoginButton.h"
+i"FBLoginDialog.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBLoginDialog.m
+c000000004B4454210000000000000FF0
+t1262769185
+s4080
+i"FBLoginDialog.h"
+i"FBSession.h"
+i"FBRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBPermissionDialog.m
+c000000004B4454210000000000000C74
+t1262769185
+s3188
+i"FBPermissionDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBRequest.m
+c000000004B4454210000000000002F5B
+t1262769185
+s12123
+i"FBRequest.h"
+i"FBSession.h"
+i"FBXMLHandler.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBSession.m
+c000000004B4454210000000000002113
+t1262769185
+s8467
+i"FBSession.h"
+i"FBRequest.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBStreamDialog.m
+c000000004B445421000000000000099D
+t1262769185
+s2461
+i"FBStreamDialog.h"
+i"FBSession.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBXMLHandler.h
+c000000004B44542100000000000003BF
+t1262769185
+s959
+i"FBConnectGlobal.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBXMLHandler.m
+c000000004AD3A5240000000000001148
+t1255384356
+s4424
+i"FBXMLHandler.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Hooray.png
+c000000004B00D429000000000000105D
+t1258345513
+s4189
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/IndividualSubviews2.xib
+c000000004B61905E0000000000003E20
+t1264685150
+s15904
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/IndividualSubviewsBasedApplicationCell.xib
+c000000004B048F930000000000005CF8
+t1258590099
+s23800
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ListDogImages.xib
+c000000004B0ABF2600000000000099D3
+t1258995494
+s39379
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ListDogImages2.xib
+c000000004AFDD3ED0000000000005F6B
+t1258148845
+s24427
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/MainWindow.xib
+c000000004B11571F000000000000790B
+t1259427615
+s30987
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/NetworkError.xib
+c000000004B06E00600000000000031AA
+t1258741766
+s12714
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/1Star.png
+c000000004AEF193E0000000000000E4F
+t1257183550
+s3663
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/2Star.png
+c000000004AEF19470000000000000EEE
+t1257183559
+s3822
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/3Star.png
+c000000004AEF195C0000000000000EEF
+t1257183580
+s3823
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/4Star.png
+c000000004AEF19660000000000000EA1
+t1257183590
+s3745
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/5Star.png
+c000000004AEF19530000000000000EBE
+t1257183571
+s3774
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/About copy.png
+c000000004B01679F0000000000001074
+t1258383263
+s4212
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/About.png
+c000000004AD097600000000000001074
+t1255184224
+s4212
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/About.xib
+c000000004BC0A5620000000000003262
+t1270916450
+s12898
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/About2.png
+c000000004AE688F30000000000023A88
+t1256622323
+s146056
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/About3.png
+c000000004B007B0F0000000000005A14
+t1258322703
+s23060
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/AddPhoto.png
+c000000004B01809000000000000011F3
+t1258389648
+s4595
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Cancel.png
+c000000004AE029230000000000000FDA
+t1256204579
+s4058
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Cancel2.png
+c000000004AF08D4C0000000000001550
+t1257278796
+s5456
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/DarkBackground.png
+c000000004A36DAE4000000000000004E
+t1245108964
+s78
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/DarkBackground2.png
+c000000004ACE53E20000000000000AED
+t1255035874
+s2797
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Default.png
+c000000004ACD5B64000000000001A31A
+t1254972260
+s107290
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Email.png
+c000000004AFDC196000000000000149E
+t1258144150
+s5278
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/LightBackground.png
+c000000004A36DAE4000000000000004E
+t1245108964
+s78
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/LightBackground2.png
+c000000004ACE54AF0000000000000AED
+t1255036079
+s2797
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Paw.png
+c000000004AD094B30000000000001013
+t1255183539
+s4115
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/SMS.png
+c000000004AF08D9E0000000000001262
+t1257278878
+s4706
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Star.png
+c000000004AD095760000000000000DBC
+t1255183734
+s3516
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Stars.png
+c000000004AD095990000000000001056
+t1255183769
+s4182
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Stars2.png
+c000000004AD008B90000000000001406
+t1255147705
+s5126
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Stars3.png
+c000000004AD007750000000000001179
+t1255147381
+s4473
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/StarsBackground.png
+c000000004A36DAE400000000000002EC
+t1245108964
+s748
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/StarsForeground.png
+c000000004A36DAE400000000000004D9
+t1245108964
+s1241
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Submission.png
+c000000004AE02D830000000000000E82
+t1256205699
+s3714
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Submit.png
+c000000004AE029000000000000001023
+t1256204544
+s4131
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/TakePhoto.png
+c000000004B01799C0000000000001214
+t1258387868
+s4628
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Terms.png
+c000000004B00DA740000000000000D4A
+t1258347124
+s3402
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Terms.xib
+c000000004B015BC400000000000029CF
+t1258380228
+s10703
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Thanks.png
+c000000004AFDDE800000000000009879
+t1258151552
+s39033
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Thanks1.png
+c000000004AEF5576000000000000983E
+t1257198966
+s38974
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/TopDawgBackground.png
+c000000004ACDF117000000000001995F
+t1255010583
+s104799
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Upload.png
+c000000004AD0953F0000000000000E9F
+t1255183679
+s3743
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/UploadBackground.png
+c000000004AE028430000000000006AE2
+t1256204355
+s27362
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner.png
+c000000004ACF90DC00000000000036DB
+t1255117020
+s14043
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner2.png
+c000000004ACF91A00000000000003A0E
+t1255117216
+s14862
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner3.png
+c000000004AE675D5000000000000330A
+t1256617429
+s13066
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner4.png
+c000000004AE6858B0000000000002215
+t1256621451
+s8725
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner5.png
+c000000004B048F8100000000000037B6
+t1258590081
+s14262
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner6 copy.png
+c000000004B04DCE90000000000002FB4
+t1258609897
+s12212
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/WhiteBanner6.png
+c000000004B04DC860000000000002E4B
+t1258609798
+s11851
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/YellowStar.png
+c000000004AEF1A9F0000000000000E6D
+t1257183903
+s3693
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/button.png
+c000000004B0318A70000000000001098
+t1258494119
+s4248
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/leftArrow.png
+c000000004ADF6B390000000000000BB9
+t1256155961
+s3001
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/medal.png
+c000000004AE6829800000000000013A3
+t1256620696
+s5027
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/rightArrow.png
+c000000004ADF6B650000000000000B9B
+t1256156005
+s2971
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/rollover.png
+c000000004B048F8E0000000000000ED3
+t1258590094
+s3795
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/rollover2.png
+c000000004B04D60F0000000000000E5E
+t1258608143
+s3678
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/topdawgicon.png
+c000000004ACD5A560000000000001B75
+t1254971990
+s7029
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/RootViewController.xib
+c000000004B12A09C00000000000020B7
+t1259511964
+s8375
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Share.xib
+c000000004BB78F670000000000003EEC
+t1270320999
+s16108
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ShareAsEmail.png
+c000000004B948E280000000000001C95
+t1268026920
+s7317
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ShareAsFacebook.png
+c000000004B948E4500000000000025A8
+t1268026949
+s9640
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ShareAsSMS.png
+c000000004B9452E10000000000001F72
+t1268011745
+s8050
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ShareAsTwitter.png
+c000000004B948E5E00000000000027CB
+t1268026974
+s10187
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/ShareCancel.png
+c000000004B948E7200000000000016A6
+t1268026994
+s5798
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Thanks.xib
+c000000004B0C1CEC00000000000033DF
+t1259085036
+s13279
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20.xib
+c000000004B04DB07000000000000214C
+t1258609415
+s8524
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20Cell.h
+c000000004ADC84E20000000000000155
+t1255965922
+s341
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20Cell.m
+c000000004BC25E0400000000000000C2
+t1271029252
+s194
+i"Top20Cell.h"
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20Image.xib
+c000000004AEE66450000000000002F38
+t1257137733
+s12088
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/TopDawg-Info.plist
+c000000004B61C6E2000000000000037D
+t1264699106
+s893
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/TopDawg_Prefix.pch
+c000000004ADCABCC00000000000000E5
+t1255975884
+s229
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/Upload.xib
+c000000004B19928D00000000000060F2
+t1259967117
+s24818
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/UploadError.xib
+c000000004B12AEF400000000000033F1
+t1259515636
+s13297
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app.dSYM
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/1Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/2Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/3Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/4Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/5Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About copy.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About3.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/AddPhoto.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Cancel.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Cancel2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/DarkBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/DarkBackground2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Default.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Email.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Entitlements.plist
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Hooray.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/IndividualSubviews2.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/IndividualSubviewsBasedApplicationCell.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Info.plist
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/LightBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/LightBackground2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ListDogImages.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ListDogImages2.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/MainWindow.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/NetworkError.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Paw.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/PkgInfo
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/RootViewController.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/SMS.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Share.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsEmail.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsFacebook.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsSMS.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsTwitter.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareCancel.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Star.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Stars.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Stars2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Stars3.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/StarsBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/StarsForeground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Submission.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Submit.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TakePhoto.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Terms.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Terms.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Thanks.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Thanks.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Thanks1.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Top20.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Top20Image.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawg
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawg-Info.plist
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawgBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Upload.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Upload.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/UploadBackground.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/UploadError.nib
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner3.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner4.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner5.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner6 copy.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner6.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/YellowStar.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/button.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/leftArrow.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/medal.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/rightArrow.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/rollover.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/rollover2.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/topdawgicon.png
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/AboutController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/ApplicationCell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBConnectGlobal.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBFeedDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginButton.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBPermissionDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBRequest.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBSession.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBStreamDialog.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBXMLHandler.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FacebookAgent.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviews2.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviewsBasedApplicationCell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/NetworkError.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage2.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Share.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Terms.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Thanks.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Cell.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Image.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TopDawg.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TopDawgAppDelegate.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TwitterRequest.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadController.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadError.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Utilities.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/libPMAnalytics-r91.a
+c000000004B144A3200000000000990B8
+t1259620914
+s626872
+
+N/Users/ThoughtWorks/Top Dawg/Top Dawg App/main.m
+c000000004A8F2E0A0000000000000A8A
+t1250897418
+s2698
+i<UIKit/UIKit.h>
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-bauwxojjqbhbuiaslfriqrugjmxm/TopDawg_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-bdyolrkkncnclvgmzvjhkwbbgkaw/TopDawg_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-gfplwankymitkwetmcpouvlreiap/TopDawg_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-grbxuywobbnnbdbsnsvsgzhushlm/TopDawg_Prefix.pch.gch
+t2
+s0
+
+NTopDawg-Info.plist
+c000000004C621F8E000000000000037D
+t1281499022
+s893
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306917384#306917384#0(219"[WARN]Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'TopDawg-Info.plist'.[BEROR]CodeSign error: code signing is required for product type 'Application' in SDK 'Device - iOS 4.1'2(22@107"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'TopDawg-Info.plist'.306917384#18446744073709551615#0#0(1@0"0(4@97"CodeSign error: code signing is required for product type 'Application' in SDK 'Device - iOS 4.1'306917384#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/AboutController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/AboutController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/AboutController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/AboutController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/ApplicationCell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/ApplicationCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/ApplicationCell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/ApplicationCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBConnectGlobal.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnectGlobal.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBConnectGlobal.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBConnectGlobal.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBFeedDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBFeedDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBFeedDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBFeedDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginButton.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBLoginButton.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginButton.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBLoginButton.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBLoginDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBLoginDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBLoginDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBPermissionDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBPermissionDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBPermissionDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBPermissionDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBRequest.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBRequest.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBSession.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBSession.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBSession.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBSession.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBStreamDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBStreamDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBStreamDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBStreamDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBXMLHandler.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBXMLHandler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FBXMLHandler.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/src/FBXMLHandler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FacebookAgent.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/FacebookAgent.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/FacebookAgent.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/FacebookAgent/FacebookAgent.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviews2.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviews2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviews2.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/IndividualSubviews2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviewsBasedApplicationCell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviewsBasedApplicationCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/IndividualSubviewsBasedApplicationCell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/IndividualSubviewsBasedApplicationCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/NetworkError.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/NetworkError.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/NetworkError.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/NetworkError.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewImage.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage2.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/RootViewImage2.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/RootViewImage2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Share.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Share.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Share.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Share.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Terms.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Terms.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Terms.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Terms.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Thanks.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Thanks.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Thanks.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Thanks.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Top20.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Cell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20Cell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Cell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20Cell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Image.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20Image.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Top20Image.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Top20Image.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TopDawgAppDelegate.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TopDawgAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TopDawgAppDelegate.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/TopDawgAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TwitterRequest.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TwitterRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/TwitterRequest.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/TwitterRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/UploadController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadError.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadError.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/UploadError.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/UploadError.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Utilities.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Utilities.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/Utilities.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Classes/Utilities.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/main.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv6/main.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/AboutController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/AboutController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/ApplicationCell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/ApplicationCell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBConnectGlobal.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBConnectGlobal.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBFeedDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBFeedDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBLoginButton.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBLoginButton.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBLoginDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBLoginDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBPermissionDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBPermissionDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBRequest.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBSession.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBSession.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBStreamDialog.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBStreamDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FBXMLHandler.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/src/FBXMLHandler.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/FacebookAgent.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/FacebookAgent/FacebookAgent.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/IndividualSubviews2.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviews2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/IndividualSubviewsBasedApplicationCell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/IndividualSubviewsBasedApplicationCell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/NetworkError.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/NetworkError.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/RootViewController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/RootViewImage.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/RootViewImage2.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/RootViewImage2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Share.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Share.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Terms.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Terms.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Thanks.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Thanks.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Top20.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Top20Cell.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20Cell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Top20Image.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Top20Image.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/TopDawgAppDelegate.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TopDawgAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/TwitterRequest.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TwitterRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/UploadController.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/UploadError.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/UploadError.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/Utilities.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/Utilities.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopDawg.build/Debug-iphoneos/TopDawg.build/Objects-normal/armv7/main.o "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/IndividualSubviews2.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/IndividualSubviewsBasedApplicationCell.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ListDogImages.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/ListDogImages2.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/NetworkError.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/About.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Resources/Terms.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Share.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Thanks.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Top20Image.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Upload.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/UploadError.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/IndividualSubviews2.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/IndividualSubviewsBasedApplicationCell.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/ListDogImages.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/ListDogImages2.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/NetworkError.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/About.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Resources/Terms.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Share.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Thanks.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Top20Image.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/Upload.xib"
+r0
+
+CCompileXIB "/Users/ThoughtWorks/Top Dawg/Top Dawg App/UploadError.xib"
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/1Star.png" Resources/1Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/2Star.png" Resources/2Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/3Star.png" Resources/3Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/4Star.png" Resources/4Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/5Star.png" Resources/5Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About copy.png" "Resources/About copy.png"
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About.png" Resources/About.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About2.png" Resources/About2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/About3.png" Resources/About3.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/AddPhoto.png" Resources/AddPhoto.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Cancel.png" Resources/Cancel.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Cancel2.png" Resources/Cancel2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/DarkBackground.png" Resources/DarkBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/DarkBackground2.png" Resources/DarkBackground2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Default.png" Resources/Default.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Email.png" Resources/Email.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Hooray.png" Hooray.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/LightBackground.png" Resources/LightBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/LightBackground2.png" Resources/LightBackground2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Paw.png" Resources/Paw.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/SMS.png" Resources/SMS.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsEmail.png" ShareAsEmail.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsFacebook.png" ShareAsFacebook.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsSMS.png" ShareAsSMS.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareAsTwitter.png" ShareAsTwitter.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/ShareCancel.png" ShareCancel.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Star.png" Resources/Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Stars.png" Resources/Stars.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Stars2.png" Resources/Stars2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Stars3.png" Resources/Stars3.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/StarsBackground.png" Resources/StarsBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/StarsForeground.png" Resources/StarsForeground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Submission.png" Resources/Submission.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Submit.png" Resources/Submit.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TakePhoto.png" Resources/TakePhoto.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Terms.png" Resources/Terms.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Thanks.png" Resources/Thanks.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Thanks1.png" Resources/Thanks1.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawgBackground.png" Resources/TopDawgBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Upload.png" Resources/Upload.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/UploadBackground.png" Resources/UploadBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner.png" Resources/WhiteBanner.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner2.png" Resources/WhiteBanner2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner3.png" Resources/WhiteBanner3.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner4.png" Resources/WhiteBanner4.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner5.png" Resources/WhiteBanner5.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner6 copy.png" "Resources/WhiteBanner6 copy.png"
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/WhiteBanner6.png" Resources/WhiteBanner6.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/YellowStar.png" Resources/YellowStar.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/button.png" Resources/button.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/leftArrow.png" Resources/leftArrow.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/medal.png" Resources/medal.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/rightArrow.png" Resources/rightArrow.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/rollover.png" Resources/rollover.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/rollover2.png" Resources/rollover2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/topdawgicon.png" Resources/topdawgicon.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/1Star.png" Resources/1Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/2Star.png" Resources/2Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/3Star.png" Resources/3Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/4Star.png" Resources/4Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/5Star.png" Resources/5Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About copy.png" "Resources/About copy.png"
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About.png" Resources/About.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About2.png" Resources/About2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/About3.png" Resources/About3.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/AddPhoto.png" Resources/AddPhoto.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Cancel.png" Resources/Cancel.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Cancel2.png" Resources/Cancel2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/DarkBackground.png" Resources/DarkBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/DarkBackground2.png" Resources/DarkBackground2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Default.png" Resources/Default.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Email.png" Resources/Email.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Hooray.png" Hooray.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/LightBackground.png" Resources/LightBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/LightBackground2.png" Resources/LightBackground2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Paw.png" Resources/Paw.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/SMS.png" Resources/SMS.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsEmail.png" ShareAsEmail.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsFacebook.png" ShareAsFacebook.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsSMS.png" ShareAsSMS.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareAsTwitter.png" ShareAsTwitter.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/ShareCancel.png" ShareCancel.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Star.png" Resources/Star.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Stars.png" Resources/Stars.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Stars2.png" Resources/Stars2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Stars3.png" Resources/Stars3.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/StarsBackground.png" Resources/StarsBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/StarsForeground.png" Resources/StarsForeground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Submission.png" Resources/Submission.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Submit.png" Resources/Submit.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TakePhoto.png" Resources/TakePhoto.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Terms.png" Resources/Terms.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Thanks.png" Resources/Thanks.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Thanks1.png" Resources/Thanks1.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawgBackground.png" Resources/TopDawgBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Upload.png" Resources/Upload.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/UploadBackground.png" Resources/UploadBackground.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner.png" Resources/WhiteBanner.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner2.png" Resources/WhiteBanner2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner3.png" Resources/WhiteBanner3.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner4.png" Resources/WhiteBanner4.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner5.png" Resources/WhiteBanner5.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner6 copy.png" "Resources/WhiteBanner6 copy.png"
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/WhiteBanner6.png" Resources/WhiteBanner6.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/YellowStar.png" Resources/YellowStar.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/button.png" Resources/button.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/leftArrow.png" Resources/leftArrow.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/medal.png" Resources/medal.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/rightArrow.png" Resources/rightArrow.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/rollover.png" Resources/rollover.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/rollover2.png" Resources/rollover2.png
+r0
+
+CCopyPNGFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/topdawgicon.png" Resources/topdawgicon.png
+r0
+
+CCopyPlistFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Entitlements.plist" Entitlements.plist
+r0
+
+CCopyPlistFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawg-Info.plist" TopDawg-Info.plist
+r0
+
+CCopyPlistFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Entitlements.plist" Entitlements.plist
+r0
+
+CCopyPlistFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawg-Info.plist" TopDawg-Info.plist
+r0
+
+CGenerateDSYMFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app.dSYM" "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawg"
+r0
+
+CGenerateDSYMFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app.dSYM" "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawg"
+r0
+
+CLd "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawg" normal armv6
+r0
+
+CLd "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/TopDawg" normal armv7
+r0
+
+CLd "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/TopDawg" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app/Info.plist" TopDawg-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app/Info.plist" TopDawg-Info.plist
+r0
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-bauwxojjqbhbuiaslfriqrugjmxm/TopDawg_Prefix.pch.gch TopDawg_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-bdyolrkkncnclvgmzvjhkwbbgkaw/TopDawg_Prefix.pch.gch TopDawg_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-gfplwankymitkwetmcpouvlreiap/TopDawg_Prefix.pch.gch TopDawg_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/IS/IShC2rX8ETCiulv3hXoG5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopDawg_Prefix-grbxuywobbnnbdbsnsvsgzhushlm/TopDawg_Prefix.pch.gch TopDawg_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/build/Debug-iphoneos/TopDawg.app"
+r0
+
+CTouch "/Users/ThoughtWorks/Top Dawg/Top Dawg App/build/Debug-iphoneos/TopDawg.app"
+r0
+

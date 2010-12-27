@@ -1,0 +1,2 @@
+/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TwitterRequest.m: In function '-[TwitterRequest connection:didFailWithError:]':
+/Users/ThoughtWorks/Top Dawg/Top Dawg App Refactor/Classes/TwitterRequest.m:78: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)
